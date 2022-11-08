@@ -138,12 +138,12 @@
     </properties>
 
     <modules>
-        <module>webgoat-container</module>
+<!--        <module>webgoat-container</module>-->
         <module>webgoat-lessons</module>
-        <module>webgoat-server</module>
-        <module>webwolf</module>
-        <module>webgoat-integration-tests</module>
-		<module>docker</module><!-- copy required jars in preparation of docker all-in-one build -->
+<!--        <module>webgoat-server</module>-->
+<!--        <module>webwolf</module>-->
+<!--        <module>webgoat-integration-tests</module>-->
+<!--		<module>docker</module>&lt;!&ndash; copy required jars in preparation of docker all-in-one build &ndash;&gt;-->
     </modules>
 
     <dependencies>
